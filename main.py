@@ -19,6 +19,7 @@ pysina.geometry("{}x{}".format(win_width, win_height))
 pysina.title("Pysina")
 
 #Definindo o Tema da Janela
+set_appearance_mode("Dark")
 set_default_color_theme("green.json")
 
 #Variáveis de Verificação 
